@@ -285,38 +285,3 @@ body {
     letter-spacing: 0.12px;
     white-space: nowrap;
 }
-
-.input-select {
-    height: 50px;
-    
-    background-color: #cbe1cc;
-    border-radius: 6px;
-    border: 1px solid #416f43;
-    
-    font-weight: 600;
-    font-family: 'Poppins';
-    font-size: 16px;
-    font-feature-settings: 'pnum' on, 'lnum' on;
-    color: #333;
-    
-    padding-top: 10px;
-    padding-left: 18px;
-    padding-right: 18px;
-    padding-bottom: 10px;
-}
-
-.input-config {
-    height: 28px;
-    
-    background-color: #cbe1cc;
-    border-radius: 6px;
-    border: 1px solid #416f43;
-    
-    font-weight: 600;
-    font-family: 'Poppins';
-    font-size: 16px;
-    font-feature-settings: 'pnum' on, 'lnum' on;
-    color: #333;
-    
-    padding: 10px 18px;
-}
